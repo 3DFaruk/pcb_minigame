@@ -14,4 +14,4 @@ end)
 exports.pcb_minigame:finishMinigame()
 ```
 
-https://github.com/user-attachments/assets/a87a8532-ef1a-415f-9477-758f8ec25ae5
+![pcbbann](https://github.com/user-attachments/assets/3adc10bd-77d9-4ab1-838b-366b6509ceb8)
