@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/db48f428-94bc-42cd-8bb5-5ce08897b3ec
 **PCB Minigame (GTAV Agents of Sabotage DLC)**
 
 - You can use it with all game builds with any requirement.
