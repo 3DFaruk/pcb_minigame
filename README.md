@@ -10,7 +10,9 @@ https://github.com/user-attachments/assets/db48f428-94bc-42cd-8bb5-5ce08897b3ec
 exports.pcb_minigame:startMinigame(3 --[[ solder count ]], 30 --[[ minigame seconds ]], function(success)
     print('Minigame finished with success: ' .. tostring(success))
 end)
+```
 
+```lua
 exports.pcb_minigame:finishMinigame()
 ```
 
