@@ -75,12 +75,6 @@ local function freeDicts()
 end
 
 local function requestDicts()
-    if gameBuild >= 3407 then -- Agents of Sabotage DLC
-        if not RequestScriptAudioBank('DLC_24-2_Circuit_Hack', false, -1) then
-            return
-        end
-    end
-
     RequestStreamedTextureDict('CommonMenu', false)
     if not HasStreamedTextureDictLoaded('CommonMenu') then
         return
